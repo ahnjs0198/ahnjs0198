@@ -1,8 +1,9 @@
 # Jaesol Ahn
 
-I'm a master's student at the University of Tokyo, expecting to graduate in 2028. I'm interested in Linux, networking, and automation.
+I'm a master's student in Electrical Engineering and Information Systems (EEIS) at the University of Tokyo, expecting to graduate in 2028. I'm interested in site reliability engineering, especially how to automate operational work and verify that changes behave as intended.
 
-I run a personal Linux server and use it to practice service operation and troubleshooting. I also maintain a technical blog built with Hugo.
+- **Network automation research** — I work on LLMRouter, a lab project that studies whether LLM agents can configure routers. I use reachability checks to evaluate the resulting configurations.
+- **Linux homelab** — I run a personal Linux lab where I practice operating services, setting up monitoring, and troubleshooting failures.
+- **Deployment automation** — I work on automating the publishing workflow for my Hugo blog.
 
-- [Farmyard Dash](https://github.com/ahnjs0198/farmyard-dash-activity) is a Discord Activity with a leaderboard backed by Cloudflare Workers and D1.
-- [GitHub](https://github.com/ahnjs0198)
+[LinkedIn](https://www.linkedin.com/in/ahnjs0198/)
